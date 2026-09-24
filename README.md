@@ -35,6 +35,7 @@ The player selects a difficulty level and tries to guess the randomly generated 
 👩‍💻 Author
 
 M BHAVYA REDDY
+
 Computer Science Engineering Student
 
 ---
